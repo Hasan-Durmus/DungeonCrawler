@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Dungeoncrawler.dir/Dungeoncrawler_autogen/mocs_compilation.cpp.o CMakeFiles/Dungeoncrawler.dir/main.cpp.o CMakeFiles/Dungeoncrawler.dir/tile.cpp.o CMakeFiles/Dungeoncrawler.dir/character.cpp.o CMakeFiles/Dungeoncrawler.dir/level.cpp.o -o Dungeoncrawler  /usr/lib/libQt5Core.so.5.15.15
