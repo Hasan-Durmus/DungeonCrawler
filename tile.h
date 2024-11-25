@@ -4,6 +4,7 @@
 #include "character.h"
 #include <iostream>
 using namespace std;
+
 class Tile
 {
 public:
@@ -20,8 +21,6 @@ protected:
     Character* character = nullptr;
     const int row;
     const int column;
-private:
-
 };
 
 class Floor:public Tile

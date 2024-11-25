@@ -4,8 +4,7 @@
 #include"tile.h"
 using namespace std;
 
-class Character
-{
+class Character{
 public:
     Character(string Texture);
     string getTexture();
@@ -13,8 +12,6 @@ public:
 private:
     string thisTexture;
     Tile* thisTile;
-
-
 };
 
 #endif // CHARACTER_H
